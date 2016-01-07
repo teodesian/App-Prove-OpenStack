@@ -1,0 +1,11 @@
+dist/*
+MANIFEST.SKIP
+dist.ini
+weaver.ini
+README.md
+.git/*
+.gitignore
+tidyall.ini
+.build/*
+OpenStack-Client-*/
+cover/*

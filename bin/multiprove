@@ -1,0 +1,5 @@
+#!/usr/bin/env perl
+package App::multiprove;
+
+# PODNAME: multiprove
+# ABSTRACT: prove across multiple hosts provisioned by an OpenStack cluster
